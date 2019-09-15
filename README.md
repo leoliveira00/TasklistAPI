@@ -9,7 +9,7 @@
 Testar requisição GET:
 
 * Defina o método HTTP como GET.
-* Defina a URL de solicitação como https://localhost:<porta>/api/task
+* Defina a URL de solicitação como https://localhost:<<porta>>/api/task
 * Selecione Enviar.
   
 Testar requisição POST:
@@ -30,7 +30,7 @@ Testar requisição POST:
 Testar requisição GET{id}
 
 * Defina o método HTTP como GET.
-* Envie na url o id desejado. Por exemplo: https://localhost:44392/api/task/1
+* Envie na url o id desejado. Por exemplo: https://localhost:<<porta>>/api/task/1
 
 Testar requisição PUT:
 
@@ -50,4 +50,4 @@ Testar requisição PUT:
 Testar requisição DELETE{id}
 
 * Defina o método HTTP como DELETE.
-* Envie na url o id desejado. Por exemplo: https://localhost:44392/api/task/1
+* Envie na url o id desejado. Por exemplo: https://localhost:<<porta>>/api/task/1
