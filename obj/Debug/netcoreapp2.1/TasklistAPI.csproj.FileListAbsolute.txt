@@ -1,0 +1,14 @@
+C:\Users\Leonardo\source\repos\TasklistAPI\bin\Debug\netcoreapp2.1\TasklistAPI.deps.json
+C:\Users\Leonardo\source\repos\TasklistAPI\bin\Debug\netcoreapp2.1\TasklistAPI.runtimeconfig.json
+C:\Users\Leonardo\source\repos\TasklistAPI\bin\Debug\netcoreapp2.1\TasklistAPI.runtimeconfig.dev.json
+C:\Users\Leonardo\source\repos\TasklistAPI\bin\Debug\netcoreapp2.1\TasklistAPI.dll
+C:\Users\Leonardo\source\repos\TasklistAPI\bin\Debug\netcoreapp2.1\TasklistAPI.pdb
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.RazorAssemblyInfo.cache
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.RazorAssemblyInfo.cs
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.dll
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.pdb
+C:\Users\Leonardo\source\repos\TasklistAPI\obj\Debug\netcoreapp2.1\TasklistAPI.csprojAssemblyReference.cache
